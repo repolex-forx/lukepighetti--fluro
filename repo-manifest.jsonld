@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/lukepighetti/fluro/commit/c2bc0592ee4a3bfe9a9875f6f1debed1a0ad63a6",
       "git:hexsha": "c2bc0592ee4a3bfe9a9875f6f1debed1a0ad63a6",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.0.5"
     },
     {
